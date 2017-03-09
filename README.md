@@ -9,5 +9,7 @@ emulate Phoenix channels.
 All of the programs require PostgreSQL 9.5+ where the database should be stored and ZeroMQ
 to talk to Ratchet.
 
+The `tsung-configs/` directory contains `tsung` configuration files used for the tests.
+
 All of the code in this repository is licensed under the BSD 3-clause licence (check the LICENCE
 file). The code is part of Mikko Ahlroth's master's thesis.
